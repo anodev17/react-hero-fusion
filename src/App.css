@@ -1,0 +1,46 @@
+
+
+.App {
+  text-align: center;
+
+}
+
+.button {
+  background-color: red;
+  color: white;
+
+}
+ .row {
+    display: inline-block;
+    margin: 100px;
+    vertical-align: top;
+ }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.col-right{
+    float: right;
+}
+
+.App-header {
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+  height: 50px;
+  padding: 5px;
+  color: red;
+}
+
+.App-title {
+  font-size: large;
+  color: black;
+}
+
+
+
+
